@@ -4,8 +4,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-chaturvedi-5872a131b)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-801)
+[![Gmail](https://img.shields.io/badge/GMAIL-vaibhavchaturvedi774-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchaturvedi774@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-vaibhav--chaturvedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-chaturvedi-5872a131b)
+[![GitHub](https://img.shields.io/badge/GITHUB-Vaibhav--801-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-801)
 
 </div>
 
@@ -45,15 +46,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-801&show_icons=true&theme=dark&bg_color=0d1117&title_color=00F5C4&icon_color=00F5C4&text_color=c9d1d9&border_color=30363d&rank_icon=github" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-801&layout=compact&theme=dark&bg_color=0d1117&title_color=00F5C4&text_color=c9d1d9&border_color=30363d" width="40%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-801&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=00F5C4&icon_color=00F5C4&border_color=1a2540"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-801&layout=compact&theme=tokyonight&title_color=00F5C4&border_color=1a2540"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vaibhav-801&theme=dark&background=0d1117&border=30363d&ring=00F5C4&fire=ff4f6d&currStreakLabel=00F5C4&sideLabels=00F5C4&dates=c9d1d9" width="55%"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-801&theme=tokyonight&ring=00F5C4&fire=ff4f6d&currStreakLabel=00F5C4&border=1a2540"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-801&theme=tokyo-night&color=00F5C4&line=00F5C4&point=ff4f6d&area=true&hide_border=false&border_color=1a2540"/>
 
 </div>
 
@@ -76,8 +82,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhav--chaturvedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-chaturvedi-5872a131b)
-[![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--801-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-801)
+[![Gmail](https://img.shields.io/badge/vaibhavchaturvedi774%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchaturvedi774@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/vaibhav--chaturvedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-chaturvedi-5872a131b)
 
 </div>
 
